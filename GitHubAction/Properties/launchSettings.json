@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GitHubAction": {
+      "commandName": "Project",
+      "commandLineArgs": "--pattern=**/coverage.cobertura.xml",
+      "workingDirectory": ".."
+    }
+  }
+}
